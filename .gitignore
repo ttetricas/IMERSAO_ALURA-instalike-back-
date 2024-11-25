@@ -1,7 +1,4 @@
 node_modules
 chave-api.txt
-esthermeirelles - leideelaila (banco de dados)
-
-mongodb+srv://esthermeirelles:leideelaila@cluster0.nvrid.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 .env
